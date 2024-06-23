@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-23T11:42:24.139Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="WAGGCwO8Yp87-4olEhCw" version="24.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-23T11:44:53.760Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="gHoaw62O6sJDYF0EloLW" version="24.6.1" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1354" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1467" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -277,11 +277,20 @@
         <mxCell id="3d39rcCGOW89XRAm9Ade-43" value="Create the basic information about the loyalty" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="C72brB4j45OvjQnRRJuR-43">
           <mxGeometry x="314.89943619691485" y="420" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="3d39rcCGOW89XRAm9Ade-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="C72brB4j45OvjQnRRJuR-43" source="3d39rcCGOW89XRAm9Ade-44" target="3d39rcCGOW89XRAm9Ade-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3d39rcCGOW89XRAm9Ade-44" value="Create its tiers if applicable" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="C72brB4j45OvjQnRRJuR-43">
           <mxGeometry x="314.89943619691485" y="495" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="3d39rcCGOW89XRAm9Ade-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="C72brB4j45OvjQnRRJuR-43" source="3d39rcCGOW89XRAm9Ade-47" target="3d39rcCGOW89XRAm9Ade-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3d39rcCGOW89XRAm9Ade-47" value="" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="C72brB4j45OvjQnRRJuR-43">
           <mxGeometry x="4.8994361969148486" y="440" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3d39rcCGOW89XRAm9Ade-48" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" vertex="1" parent="C72brB4j45OvjQnRRJuR-43">
+          <mxGeometry x="199.63943619691463" y="730" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C72brB4j45OvjQnRRJuR-44" value="System" style="swimlane;whiteSpace=wrap" parent="C72brB4j45OvjQnRRJuR-45" vertex="1">
           <mxGeometry x="2146.3784922366704" width="505.6215077633289" height="1800" as="geometry" />
