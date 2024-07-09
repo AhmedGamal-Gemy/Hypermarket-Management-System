@@ -13,7 +13,7 @@ import javafx.fxml.Initializable;
  *
  * @author ahmedgamal
  */
-public class InventoryManagerController implements Initializable {
+public class InventoryManagerController extends UserController implements Initializable {
 
     /**
      * Initializes the controller class.

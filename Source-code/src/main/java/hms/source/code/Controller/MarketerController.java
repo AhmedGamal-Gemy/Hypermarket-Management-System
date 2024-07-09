@@ -13,7 +13,7 @@ import javafx.fxml.Initializable;
  *
  * @author ahmedgamal
  */
-public class CashierViewController implements Initializable {
+public class MarketerController extends UserController implements Initializable {
 
     /**
      * Initializes the controller class.

@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/javafx/FXMLController.java to edit this template
- */
 package hms.source.code.Controller;
 
 import java.net.URL;
@@ -13,7 +9,7 @@ import javafx.fxml.Initializable;
  *
  * @author ahmedgamal
  */
-public class MarketerViewController implements Initializable {
+public class CashierController extends UserController implements Initializable {
 
     /**
      * Initializes the controller class.
