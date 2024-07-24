@@ -1,11 +1,11 @@
 package hms.source.code.Model;
 
-import Interfaces.OrderModel;
+import hms.source.code.Model.Interfaces.OrderModelInterface;
 
 /**
  *
  * @author ahmedgamal
  */
-public class Order implements OrderModel{
+public class Order implements OrderModelInterface{
     
 }

@@ -1,5 +1,5 @@
 
-package Interfaces;
+package General_interfaces;
 
 /**
  *
